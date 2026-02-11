@@ -1,4 +1,3 @@
-cd Desktop/AISHWARYA
-git add Day7_files.py
-git commit -m "Added Day 7 files task"
-git push
+git add Day7_files
+git commit -m "Day7:Timestamp logging,CSV writing,safe CSV reading"
+git push origin main
